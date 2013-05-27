@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="board_edge">#84A1A9</color>
+    <color name="dark_brown">#DBA901</color>
+    <color name="light_brown">#F5ECCE</color>
+    <color name="square_selected">#31B404</color>
+    <color name="toast_color">#000000</color>
+
+</resources>
